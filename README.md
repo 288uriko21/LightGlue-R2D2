@@ -36,5 +36,4 @@ pip install -r requirements.txt
 # запуск экспериментов
 python demo.py
 ```
-python demo.py
-```
+
